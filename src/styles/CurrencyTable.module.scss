@@ -1,0 +1,16 @@
+.table {
+  width: 100%;
+  font-size: 1.75rem;
+  text-align: center;
+  border-collapse: collapse;
+
+  thead, tbody {
+    tr {
+      border-bottom: 1px solid black;
+    }
+  }
+
+  td, th {
+    padding: .5em;
+  }
+}
